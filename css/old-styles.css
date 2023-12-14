@@ -434,7 +434,7 @@ background-color: #4D5AE5;
 
 
 /* ============== FOOTER STYLES ============== */
-/* .page-footer {
+.page-footer {
     background: #2E2F42;
     padding: 100px 0;
 }
@@ -479,7 +479,7 @@ margin-right: 120px;
 .link-footer:focus {
     background-color: #31D0AA;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-} */
+}
 
 /* ============== FOOTER FORM ============== */
 .subscribe-form {
@@ -550,7 +550,7 @@ letter-spacing: 0.04em;
 /* ============== FOOTER STYLES ============== */
 
 /* ============== BACKDROP STYLES ============== */
-.backdrop {
+/* .backdrop {
     position:fixed;
     top: 0;
     left: 0;
@@ -568,12 +568,12 @@ letter-spacing: 0.04em;
 opacity: 1;
 visibility: visible;
 pointer-events: auto;
-}
+} */
 /* ============== BACKDROP STYLES ============== */
 
 
 /* ============== MODAL WINDOW STYLES ============== */
-.modal {
+/* .modal {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -702,11 +702,11 @@ fill: #4D5AE5 ;
 }
 .contact-form-comment:focus {
     border-color: #4D5AE5;
-}
+} */
 /* ============== MODAL WINDOW STYLES ============== */
 
 /* ============== CHECKBOX STYLES ============== */
-.contact-form-own-checkbox {
+/* .contact-form-own-checkbox {
     display: inline-flex;
     align-items: center;
     justify-content: center;
@@ -780,5 +780,5 @@ text-decoration-line: underline;
 .contact-form-submit-btn:focus,
 .contact-form-submit-btn:hover {
 background: #404BBF;
-}
+} */
 /* ============== CHECKBOX STYLES ============== */
